@@ -1,0 +1,59 @@
+{
+  "subscribed": [
+    {
+      "id": "lmstudio-ai/general-use-668ec0995efe9be005c564ea",
+      "title": "Loading...",
+      "description": "Loading...",
+      "ownerFullName": "Loading...",
+      "lastCheckedTimestamp": 0,
+      "lastUpdatedTimestamp": 0,
+      "updatesSinceLastChecked": 0,
+      "numModels": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": "lmstudio-ai/coding-668ec136b2563ccd6772eb4e",
+      "title": "Loading...",
+      "description": "Loading...",
+      "ownerFullName": "Loading...",
+      "lastCheckedTimestamp": 0,
+      "lastUpdatedTimestamp": 0,
+      "updatesSinceLastChecked": 0,
+      "numModels": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": "lmstudio-ai/tools-use-rag-function-calling-668ec21bb25b63eba9b8e86c",
+      "title": "Loading...",
+      "description": "Loading...",
+      "ownerFullName": "Loading...",
+      "lastCheckedTimestamp": 0,
+      "lastUpdatedTimestamp": 0,
+      "updatesSinceLastChecked": 0,
+      "numModels": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": "lmstudio-ai/multilingual-668ec869d6b050a1243b3761",
+      "title": "Loading...",
+      "description": "Loading...",
+      "ownerFullName": "Loading...",
+      "lastCheckedTimestamp": 0,
+      "lastUpdatedTimestamp": 0,
+      "updatesSinceLastChecked": 0,
+      "numModels": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": "lmstudio-ai/smol-models-668ec8a3560826683ec4d1f4",
+      "title": "Loading...",
+      "description": "Loading...",
+      "ownerFullName": "Loading...",
+      "lastCheckedTimestamp": 0,
+      "lastUpdatedTimestamp": 0,
+      "updatesSinceLastChecked": 0,
+      "numModels": 0,
+      "error": "fetch failed"
+    }
+  ]
+}
